@@ -1,0 +1,77 @@
+﻿imagePath,imagesBinary,name,folio,description,classification,width,mei,review,dob,project,
+[],[],C clef,001r,,clef.c,1,"<clef shape=""C""/>",No,,5d39e8755fbd53216a2fa442,
+,,F Clef,,,clef.f,1,"<clef shape=""F""/>",,,,
+,,Custos,,,custos,1,<custos/>,,,,
+,,Punctum,,,neume.punctum,1,"<neume>
+    <nc/>
+</neume>",,,,
+,,Inclinatum,,,neume.inclinatum,1,"<neume>
+   <nc tilt=""se""/> 
+</neume>",,,,
+,,Virga,,,neume.virga,1,"<neume>
+    <nc tilt=""s""/>
+</neume>",,,,
+,,Reverse virga,,,neume.reversevirga,1,"<neume>
+    <nc tilt=""ne""/>
+</neume>",,,,
+,,Cephalicus stem left,,,neume.cephalicus.left,1,"<neume>
+    <nc curve=""c"" tilt=""ne"" type=""cephalicus"">
+        <liquescent/>
+    </nc>
+</neume>",,,,
+,,Cephalicus stem right,,,neume.cephalicus.right,1,"<neume>
+    <nc curve=""c"" tilt=""s"" type=""cephalicus"">
+        <liquescent/>
+    </nc>
+</neume>",,,,
+,,Epiphonus,,,neume.epiphonus,1,"<neume>
+    <nc curve=""a"" type=""epiphonus"">
+        <liquescent/>
+    </nc>
+</neume>",,,,giving it the width to be able to divide the neume bbox (horizontally) into that number of vertical boxes.
+,,Oriscus,,,neume.oriscus,1,"<neume>
+    <nc>
+        <oriscus/>
+    </nc>
+</neume>",,,,Where should this bbox division into vertical bboxes be done? Heuristic pitch finding (how is that working? because it is getting the pitch of the individual neume-components correcly even having only one bbox for the whole neume) or MEI Encoding job?
+,,Quilisma,,,neume.quilisma,1,"<neume>
+    <nc>
+        <quilisma/>
+    </nc>
+</neume>",,,,"This file is received by the MEI Encoding job, so it can do the mapping of the IC class into both the MEI code (for encoding the <neume>) and the width column (for dividing the bbox and encoding the <zone>s)"
+,,Plica down,,,neume.plica.down,1,"<neume type=""twolegsdown"">
+    <nc/>
+    <nc intm=""0S""/>
+</neume>",,,,
+,,Plica up,,,neume.plica.up,1,"<neume type=""twolegsup"">
+    <nc/>
+    <nc intm=""0S""/>
+</neume>",,,,
+,,Lengueta down,,,neume.lengueta.down,1,"<neume type=""lenguetadown"">
+    <nc/>
+    <nc intm=""0S""/>
+</neume>",,,,
+,,Lengueta up,,,neume.lengueta.up,1,"<neume type=""lenguetaup"">
+    <nc/>
+    <nc intm=""0S""/>
+</neume>",,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
