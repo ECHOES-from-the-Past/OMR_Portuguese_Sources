@@ -1,6 +1,6 @@
-# Aquitanian OMR Table for MEI Encoding Job in Rodan
+# Square OMR Table for MEI Encoding Job in Rodan
 
-This is the MEI Mapping table that contains the information needed for Rodan's MEI Encoding job to map the classes of the symbols used in the Interactive/Non-Interactive Classifier (e.g., `neume.punctum`, `neume.inclinatum`, and `custos`) into their corresponding MEI encoding. These are all the "atomic" symbols that appear in E-SAu Ms. 2637 (ACm), also known as the Salamanca Missal (https://pemdatabase.eu/source/48357).
+This is the MEI Mapping table that contains the information needed for Rodan's MEI Encoding job to map the classes of the symbols used in the Interactive/Non-Interactive Classifier (e.g., `neume.punctum`, `neume.inclinatum`, and `custos`) into their corresponding MEI encoding. These are all the "atomic" symbols that appear in three square manuscripts (P-BRs Ms. [028](https://pemdatabase.eu/source/48438), [032](https://pemdatabase.eu/source/47990), and [034](https://pemdatabase.eu/source/47612)).
 
 | imagePath | imageBinary | name | folio | description | classification | width | mei | dob | project |
 | --------- | ----------- | ---- | ----- | ----------- | -------------- | ----- | --- | --- | ------- | 
