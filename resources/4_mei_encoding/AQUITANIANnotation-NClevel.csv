@@ -1,57 +1,57 @@
 ﻿imagePath,imagesBinary,name,folio,description,classification,width,mei,review,dob,project
-[],[],C clef,001r,,clef.c,1,"<clef shape=""C""/>",No,,5d39e8755fbd53216a2fa442
-,,F Clef,,,clef.f,1,"<clef shape=""F""/>",,,
-,,Custos,,,custos,1,<custos/>,,,
-,,Punctum,,,neume.punctum,1,"<neume>
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/RQKyrNTU8790.tiff/1478,2286,33,55/128,/0/default.jpg",Picture,Custos,18v,"Tolle puerum, 2nd line, end",custos,1,<custos/>,,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/1900,545,31,38/128,/0/default.jpg",Picture,Punctum,3r,"Dominus dabit, 1st line, benignitaTEM",neume.punctum,1,"<neume>
     <nc/>
-</neume>",,,
-,,Inclinatum,,,neume.inclinatum,1,"<neume>
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/s0N4NSFQ8805.tiff/1371,2130,50,37/128,/0/default.jpg",Picture,Rhombus,26r,"Illumina, 1st line, TUum",neume.rhombus,1,"<neume>
    <nc tilt=""se""/> 
-</neume>",,,
-,,Virga,,,neume.virga,1,"<neume>
-    <nc tilt=""s""/>
-</neume>",,,
-,,Reverse virga,,,neume.reversevirga,1,"<neume>
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/2048,576,22,50/128,/0/default.jpg",Picture,Virga,3r,"Dominus dabit, 1st line, teRRA",neume.virga,1,"<neume>
     <nc tilt=""ne""/>
-</neume>",,,
-,,Cephalicus stem left,,,neume.cephalicus.left,1,"<neume>
-    <nc curve=""c"" tilt=""ne"" type=""cephalicus"">
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/1936,541,37,52/128,/0/default.jpg",Picture,Cephalicus,3r,"Dominus dabit, 1st line, ET",neume.cephalicus,1,"<neume>
+    <nc curve=""c"" type=""cephalicus"">
         <liquescent/>
     </nc>
-</neume>",,,
-,,Cephalicus stem right,,,neume.cephalicus.right,1,"<neume>
-    <nc curve=""c"" tilt=""s"" type=""cephalicus"">
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/oI017Xju8794.tiff/1847,720,60,65/128,/0/default.jpg",Picture,Epiphonus,20v,"Vidimus stellam, 1st line, STELlam",neume.epiphonus,1,"<neume>
+    <nc curve=""a"" type=""cephalicus"">
         <liquescent/>
     </nc>
-</neume>",,,
-,,Epiphonus,,,neume.epiphonus,1,"<neume>
-    <nc curve=""a"" type=""epiphonus"">
-        <liquescent/>
-    </nc>
-</neume>",,,
-,,Oriscus,,,neume.oriscus,1,"<neume>
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/s0N4NSFQ8805.tiff/1734,2341,24,28/128,/0/default.jpg",Picture,Oriscus,26r,"Illumina, 3rd line, confunDAR",neume.oriscus,1,"<neume>
     <nc>
         <oriscus/>
     </nc>
-</neume>",,,
-,,Quilisma,,,neume.quilisma,1,"<neume>
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/RQKyrNTU8790.tiff/1325,2047,45,53/128,/0/default.jpg",Picture,Quilisma,18v,"Tolle puerum, 1st line, TErram",neume.quilisma,1,"<neume>
     <nc>
         <quilisma/>
     </nc>
-</neume>",,,
-,,Plica down,,,neume.plica.down,1,"<neume type=""twolegsdown"">
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/h_zRaSsE8826.tiff/567,2231,45,56/128,/0/default.jpg",Picture,Torculus11,37r,"Scapulis, 2nd line, scuTO",neume.torculus11,"[1, 1, 1]","<neume>
     <nc/>
-    <nc intm=""0S""/>
-</neume>",,,
-,,Plica up,,,neume.plica.up,1,"<neume type=""twolegsup"">
+    <nc intm=""1S""/>
+    <nc intm=""-1S""/>
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/1349,534,66,73/128,/0/default.jpg",Picture,Torculus21,3r,"Dominus dabit, 1st line, doMInus",neume.torculus21,"[1, 1, 1]","<neume>
     <nc/>
-    <nc intm=""0S""/>
-</neume>",,,
-,,Lengueta down,,,neume.lengueta.down,1,"<neume type=""lenguetadown"">
+    <nc intm=""2S""/>
+    <nc intm=""-1S""/>
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/jyc11xgr8762.tiff/773,2062,55,75/128,/0/default.jpg",Picture,Torculus12,4v,"Jerusalem surge, 1st line, JErusalem",neume.torculus12,"[1, 1, 1]","<neume>
     <nc/>
-    <nc intm=""0S""/>
-</neume>",,,
-,,Lengueta up,,,neume.lengueta.up,1,"<neume type=""lenguetaup"">
+    <nc intm=""1S""/>
+    <nc intm=""-2S""/>
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/jjx1scZx8779.tiff/971,2032,60,81/128,/0/default.jpg",Picture,Torculus23,13r,"In splendoribus, 1st line, liduFErum",neume.torculus23,"[1, 1, 1]","<neume>
     <nc/>
-    <nc intm=""0S""/>
-</neume>",,,
+    <nc intm=""2S""/>
+    <nc intm=""-3S""/>
+</neume>",,,E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/RQKyrNTU8790.tiff/670,2095,28,57/128,/0/default.jpg",Picture,Liquescent virga,18v,"Tolle puerum, 1st line, TOLle",neume.virgaliq,1,"<neume>
+    <nc curve=""c"" tilt=""ne"">
+        <liquescent/>
+    </nc>
+</neume>",,,E-SAu Ms. 2637 (ACm)
+,,,,,,,,,,
