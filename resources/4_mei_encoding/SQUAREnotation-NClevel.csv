@@ -1,51 +1,75 @@
-﻿imagePath,imagesBinary,name,folio,description,classification,width,mei,review,dob,project
+imagePath,imagesBinary,name,folio,description,classification,width,mei,review,dob,project
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/264c717c-e9f5-411d-9597-7dce6f8aeb60/PYeyLxJV15764.tiff/2506,1270,62,68/128,/0/default.jpg",Picture,Punctum,17r,"1, D",neume.punctum,1,"<neume>
     <nc/>
-</neume>",,,"P-BRs, Ms. 28"
+</neume>",[],[],"P-BRs, Ms. 28"
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/TUWPM11Z14821.tiff/2720,990,32,50/128,/0/default.jpg",Picture,Rhombus,27,"2,3,2,1, A,B,A,G",neume.rhombus,1,"<neume>
    <nc tilt=""se""/> 
-</neume>",,,"P-BRs, Ms. 34"
+</neume>",[],[],"P-BRs, Ms. 34"
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/264c717c-e9f5-411d-9597-7dce6f8aeb60/PYeyLxJV15764.tiff/2444,1225,67,82/128,/0/default.jpg",Picture,Cephalicus,17r,1L,neume.cephalicus,1,"<neume>
     <nc curve=""c"" type=""cephalicus"">
         <liquescent/>
     </nc>
-</neume>",,,"P-BRs, Ms. 28"
-"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/E0e5QNB914997.tiff/3217,1206,80,70/128,/0/default.jpg",Picture,Obliqua1 middle,355,"3,1,2, G,E,F",neume.obliquamiddle1,"[1, 1]","<neume>
+</neume>",[],[],"P-BRs, Ms. 28"
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/E0e5QNB914997.tiff/3217,1206,80,70/128,/0/default.jpg",Picture,Obliqua1 middle,355,"3,1,2, G,E,F",neume.obliquamiddle1,1,"<neume>
     <nc ligated=""true""/>
     <nc intm=""-1S"" ligated=""true""/>
-</neume>",,,"P-BRs, Ms. 34"
-"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bqdauEIT14987.tiff/1249,941,65,121/128,/0/default.jpg",Picture,Obliqua1 start,348,"2,1,2, A,G,A",neume.obliquastart1,"[1, 1]","<neume>
+</neume>",[],[],"P-BRs, Ms. 34"
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bqdauEIT14987.tiff/1249,941,65,121/128,/0/default.jpg",Picture,Obliqua1 start,348,"2,1,2, A,G,A",neume.obliquastart1,1,"<neume>
     <nc tilt=""n"" ligated=""true""/>
     <nc intm=""-1S"" ligated=""true""/>
-</neume>",,,"P-BRs, Ms. 34"
-"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bzwWWL1V14872.tiff/2298,1220,88,106/128,/0/default.jpg",Picture,Obliqua2 start,131,"3,1,3, F,D,F",neume.obliquastart2,"[1, 1]","<neume>
+</neume>",[],[],"P-BRs, Ms. 34"
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bzwWWL1V14872.tiff/2298,1220,88,106/128,/0/default.jpg",Picture,Obliqua2 start,131,"3,1,3, F,D,F",neume.obliquastart2,1,"<neume>
     <nc tilt=""n"" ligated=""true""/>
     <nc intm=""-2S"" ligated=""true""/>
-</neume>",,,"P-BRs, Ms. 34"
+</neume>",[],[],"P-BRs, Ms. 34"
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bqdauEIT14987.tiff/1215,780,36,90/128,/0/default.jpg",Picture,Virga,348,"3,2,1, F,E,D",neume.virga,1,"<neume>
     <nc tilt=""s""/>
-</neume>",,,"P-BRs, Ms. 34"
+</neume>",[],[],"P-BRs, Ms. 34"
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/264c717c-e9f5-411d-9597-7dce6f8aeb60/DAYImc_q15759.tiff/813,1232,25,75/128,/0/default.jpg",Picture,Reverse virga,11v,"2,1, F,E",neume.reversevirga,1,"<neume>
     <nc tilt=""n""/>
-</neume>",,,"P-BRs, Ms. 28"
+</neume>",[],[],"P-BRs, Ms. 28"
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bqdauEIT14987.tiff/1053,952,46,68/128,/0/default.jpg",Picture,Lengueta up,348,"1,2L, F,G",neume.lenguetaup,1,"<neume type=""lenguetaup"">
     <nc/>
     <nc intm=""0S""/>
-</neume>",,,"P-BRs, Ms. 34"
+</neume>",[],[],"P-BRs, Ms. 34"
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/pk5Nfb9x14858.tiff/2626,1780,104,86/128,/0/default.jpg",Picture,Torculus21,91,"1,3,2, C,E,D",neume.torculus21,"[1, 1, 1]","<neume>
     <nc/>
     <nc intm=""2S""/>
     <nc intm=""-1S""/>
-</neume>",,,"P-BRs, Ms. 34"
+</neume>",[],[],"P-BRs, Ms. 34"
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/9n3p1veu14830.tiff/749,598,72,88/128,/0/default.jpg",Picture,Torculus31,12,"1,4,3, C,F,E",neume.torculus31,"[1, 1, 1]","<neume>
     <nc/>
     <nc intm=""3S""/>
     <nc intm=""-1S""/>
-</neume>",,,"P-BRs, Ms. 34"
+</neume>",[],[],"P-BRs, Ms. 34"
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/TCqnxZ1414852.tiff/2400,1366,62,91/128,/0/default.jpg",Picture,Torculus22,3,"(ACm) Dominus dabit, 2nd staff, daBIT",neume.torculus22,"[1, 1, 1]","<neume>
     <nc/>
     <nc intm=""2S""/>
     <nc intm=""-2S""/>
-</neume>",,,P-BRs Ms. 034
-,,C clef,,,clef.c,1,"<clef shape=""C""/>",,,
-,,F clef,,,clef.f,1,"<clef shape=""F""/>",,,
+</neume>",[],[],P-BRs Ms. 034
+[],[],C clef,[],[],clef.c,1,"<clef shape=""C""/>",[],[],[]
+[],[],F clef,[],[],clef.f,1,"<clef shape=""F""/>",[],[],[]
+[],[],Flat,[],[],accid.flat,1,"<accid accid=""f""/>",[],[],[]
+[],[],Custos,[],[],custos,1,<custos/>,[],[],[]
+[],[],Divisio,[],[],divisio,1,<divLine/>,[],[],[]
+[],[],Clivis,[],[],neume.clivis,"[1,1]","<neume>
+    <nc/>
+    <nc intm=""-1S""/>
+</neume>",[],[],[]
+[],[],Podatus,[],[],neume.podatus,"[1,1]","<neume>
+    <nc/>
+    <nc intm=""1S""/>
+</neume>",[],[],[]
+[],[],Obliqua1 middle,[],[],neume.obliquamiddle1,2,"<neume>
+    <nc ligated=""true""/>
+    <nc intm=""-1S"" ligated=""true""/>
+</neume>",[],[],[]
+[],[],Plica down,[],[],neume.twolegsdown,1,"<neume type=""twolegsdown"">
+    <nc/>
+    <nc intm=""0S""/>
+</neume>",[],[],[]
+[],[],Torculus11,[],[],neume.torculus11,"[1, 1, 1]","<neume>
+    <nc/>
+    <nc intm=""1S""/>
+    <nc intm=""-1S""/>
+</neume>",[],[],[]
