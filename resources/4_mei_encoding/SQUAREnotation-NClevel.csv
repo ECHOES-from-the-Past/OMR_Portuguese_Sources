@@ -60,7 +60,7 @@ imagePath,imagesBinary,name,folio,description,classification,width,mei,review,do
     <nc/>
     <nc intm=""1S""/>
 </neume>",[],[],[]
-[],[],Obliqua1 middle,[],[],neume.obliquamiddle1,2,"<neume>
+[],[],Obliqua1 middle,[],[],neume.obliquamiddle1,1,"<neume>
     <nc ligated=""true""/>
     <nc intm=""-1S"" ligated=""true""/>
 </neume>",[],[],[]
