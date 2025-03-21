@@ -10,15 +10,15 @@ imagePath,imagesBinary,name,folio,description,classification,width,mei,review,do
         <liquescent/>
     </nc>
 </neume>",[],[],"P-BRs, Ms. 28"
-"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/E0e5QNB914997.tiff/3217,1206,80,70/128,/0/default.jpg",Picture,Obliqua1 middle,355,"3,1,2, G,E,F",neume.obliquamiddle1,1,"<neume>
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/E0e5QNB914997.tiff/3217,1206,80,70/128,/0/default.jpg",Picture,Obliqua1 middle,355,"3,1,2, G,E,F",neume.obliquamiddle1,2,"<neume>
     <nc ligated=""true""/>
     <nc intm=""-1S"" ligated=""true""/>
 </neume>",[],[],"P-BRs, Ms. 34"
-"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bqdauEIT14987.tiff/1249,941,65,121/128,/0/default.jpg",Picture,Obliqua1 start,348,"2,1,2, A,G,A",neume.obliquastart1,1,"<neume>
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bqdauEIT14987.tiff/1249,941,65,121/128,/0/default.jpg",Picture,Obliqua1 start,348,"2,1,2, A,G,A",neume.obliquastart1,2,"<neume>
     <nc tilt=""n"" ligated=""true""/>
     <nc intm=""-1S"" ligated=""true""/>
 </neume>",[],[],"P-BRs, Ms. 34"
-"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bzwWWL1V14872.tiff/2298,1220,88,106/128,/0/default.jpg",Picture,Obliqua2 start,131,"3,1,3, F,D,F",neume.obliquastart2,1,"<neume>
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bzwWWL1V14872.tiff/2298,1220,88,106/128,/0/default.jpg",Picture,Obliqua2 start,131,"3,1,3, F,D,F",neume.obliquastart2,2,"<neume>
     <nc tilt=""n"" ligated=""true""/>
     <nc intm=""-2S"" ligated=""true""/>
 </neume>",[],[],"P-BRs, Ms. 34"
@@ -59,10 +59,6 @@ imagePath,imagesBinary,name,folio,description,classification,width,mei,review,do
 [],[],Podatus,[],[],neume.podatus,"[1,1]","<neume>
     <nc/>
     <nc intm=""1S""/>
-</neume>",[],[],[]
-[],[],Obliqua1 middle,[],[],neume.obliquamiddle1,1,"<neume>
-    <nc ligated=""true""/>
-    <nc intm=""-1S"" ligated=""true""/>
 </neume>",[],[],[]
 [],[],Plica down,[],[],neume.twolegsdown,1,"<neume type=""twolegsdown"">
     <nc/>
