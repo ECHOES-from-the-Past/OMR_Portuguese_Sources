@@ -28,9 +28,9 @@ imagePath,imagesBinary,name,folio,description,classification,width,mei,review,do
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/264c717c-e9f5-411d-9597-7dce6f8aeb60/DAYImc_q15759.tiff/813,1232,25,75/128,/0/default.jpg",Picture,Reverse virga,11v,"2,1, F,E",neume.reversevirga,1,"<neume>
     <nc tilt=""n""/>
 </neume>",[],[],"P-BRs, Ms. 28"
-"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bqdauEIT14987.tiff/1053,952,46,68/128,/0/default.jpg",Picture,Lengueta up,348,"1,2L, F,G",neume.lenguetaup,"[1,1]","<neume type=""lenguetaup"">
-    <nc/>
-    <nc intm=""0S""/>
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/bqdauEIT14987.tiff/1053,952,46,68/128,/0/default.jpg",Picture,Lengueta up,348,"1,2L, F,G",neume.lenguetaup,"[1,1]","<neume>
+    <nc type=""lenguetaup""/>
+    <nc intm=""0S"" type=""lenguetaup""/>
 </neume>",[],[],"P-BRs, Ms. 34"
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/cc7b84c3-df67-4556-91fb-2b9eb9e8b6bd/pk5Nfb9x14858.tiff/2626,1780,104,86/128,/0/default.jpg",Picture,Torculus21,91,"1,3,2, C,E,D",neume.torculus21,"[1, 1, 1]","<neume>
     <nc/>
@@ -60,9 +60,9 @@ imagePath,imagesBinary,name,folio,description,classification,width,mei,review,do
     <nc/>
     <nc intm=""1S""/>
 </neume>",[],[],[]
-[],[],Plica down,[],[],neume.twolegsdown,"[1,1]","<neume type=""twolegsdown"">
-    <nc/>
-    <nc intm=""0S""/>
+[],[],Plica down,[],[],neume.twolegsdown,"[1,1]","<neume>
+    <nc type=""twolegsdown""/>
+    <nc intm=""0S"" type=""twolegsdown""/>
 </neume>",[],[],[]
 [],[],Torculus11,[],[],neume.torculus11,"[1, 1, 1]","<neume>
     <nc/>
