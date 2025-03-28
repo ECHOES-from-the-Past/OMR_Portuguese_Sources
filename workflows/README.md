@@ -13,8 +13,8 @@ The remaining input layers of Pixel (e.g., staff lines and text) should be conne
 
 **Important note:** We always use the `PNG (RGB)` job to process the image at the very beginning.
 
-### Workflow
+### Screenshot of workflow
 ![BGRemoval](./images/BGRemoval.png)
 
-### Workflow annotated for ports
+### Screenshot of workflow with annotated for ports
 ![BGRemoval - annotated](./images/BGRemoval%20-%20annotated.png)
