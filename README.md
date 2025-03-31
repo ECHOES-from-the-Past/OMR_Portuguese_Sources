@@ -7,7 +7,7 @@ Resources for the Optical Music Recognition (OMR) for Iberian Aquitanian and Ibe
 The resources for each of the steps of OMR can be found in each of the following folders:
 - Document Analysis in [`resources/1_document_analysis/`](https://github.com/ECHOES-from-the-Past/OMR_Portuguese_Sources/tree/main/resources/1_document_analysis)
 - Music Symbol Classification in [`resources/2_music_symbol_classification](https://github.com/ECHOES-from-the-Past/OMR_Portuguese_Sources/tree/main/resources/2_music_symbol_classification)
-- Music Reconstruction in the folder for processing of the text in [`resources/3_text_alignment](https://github.com/ECHOES-from-the-Past/OMR_Portuguese_Sources/tree/main/resources/3_text_alignment)
+- Music Reconstruction in the folder for processing of the text in [`resources/3_text_alignment`](https://github.com/ECHOES-from-the-Past/OMR_Portuguese_Sources/tree/main/resources/3_text_alignment)
 - And Music Encoding in [`4_mei_encoding`](https://github.com/ECHOES-from-the-Past/OMR_Portuguese_Sources/tree/main/resources/4_mei_encoding)
 
 ## The Case of Iberian Aquitanian and Square notations
