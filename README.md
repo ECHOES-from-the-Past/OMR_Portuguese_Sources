@@ -1,6 +1,6 @@
 # OMR_Portuguese_Sources
 
-Resources for the Optical Music Recognition (OMR) for Aquitanian and Iberian square notations as found in manuscripts:
+Resources for the Optical Music Recognition (OMR) for Aquitanian and Iberian square notations as found in the manuscripts:
 - [Salamanca Missal, E-SAu Ms. 2637 (ACm)](https://pemdatabase.eu/source/48357) in _Iberian Aquitanian notation_
 - [P-BRs Ms. 034](https://pemdatabase.eu/source/47612) in _Iberian square notation_
 
