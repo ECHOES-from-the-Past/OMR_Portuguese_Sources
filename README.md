@@ -14,7 +14,7 @@ The resources for each of the four steps of an OMR workflow can be found in each
 
 ### Iberian Square Notation
 Square notation in this Iberian source shows some peculiarities:
-1. Extra symbols. For example, the lengueta, which implies a repeated note and looks like:
+1. Extra symbols. For example, the lengüeta, which implies a repeated note and looks like:
 
    <img src="./resources/4_mei_encoding/_images/square/SQlenguetaup.jpg" width="56p" alt="LenguetaUp"/>  ![LenguetaDown](./resources/4_mei_encoding/_images/square/lenguetadown.png)
      
