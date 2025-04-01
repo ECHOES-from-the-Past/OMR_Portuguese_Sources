@@ -1,7 +1,7 @@
 # OMR_Portuguese_Sources
 
 Resources for the Optical Music Recognition (OMR) for Aquitanian and Iberian square notations as found in the manuscripts:
-- [Salamanca Missal, E-SAu Ms. 2637 (ACm)](https://pemdatabase.eu/source/48357) in _Iberian Aquitanian notation_
+- [Salamanca Missal, E-SAu Ms. 2637 (ACm)](https://pemdatabase.eu/source/48357) in _Aquitanian notation, Portuguese style_
 - [P-BRs Ms. 034](https://pemdatabase.eu/source/47612) in _Iberian square notation_
 
 The resources for each of the four steps of an OMR workflow can be found in each in the following folders:
@@ -22,6 +22,6 @@ Square notation in this Iberian source shows some peculiarities:
 
    ![TwoTailsDown](./resources/4_mei_encoding/_images/square/twostemsdown.png)
 
-### Iberian Aquitanian Notation
+### Portuguese-Style Aquitanian Notation
 In early Iberian Aquitanian sources, like the Salamanca Missal, there is a music reference line and no clefs. In the Salamanca Missal, in particular, the music reference is a dry-point line (other sources might show this line in red or black ink).
 
