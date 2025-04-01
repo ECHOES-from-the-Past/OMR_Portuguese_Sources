@@ -13,14 +13,15 @@ The resources for each of the four steps of an OMR workflow can be found in each
 ## The Case of Iberian Aquitanian and Square notations
 
 ### Iberian Square Notation
-Iberian square notation has some differences when compared to regular??? square notation:
-1. Some extra symbols. For example, the lengueta, which implies a repeated note and looks like:
+Square notation in this Iberian source shows some peculiarities:
+1. Extra symbols. For example, the lengueta, which implies a repeated note and looks like:
 
    <img src="./resources/4_mei_encoding/_images/square/SQlenguetaup.jpg" width="56p" alt="LenguetaUp"/>  ![LenguetaDown](./resources/4_mei_encoding/_images/square/lenguetadown.png)
      
-2. Some symbols that are used with a different functionality. For example, the following symbol that looks like a plica but it is not representing a liquescent, but a repeated note.
+2. Symbols that are used with a different functionality. For example, the following symbol that looks like a plica but it is not representing a liquescent, but a repeated note.
 
    ![TwoTailsDown](./resources/4_mei_encoding/_images/square/twostemsdown.png)
 
 ### Iberian Aquitanian Notation
-Aquitanian notation is characterized by the use of a single music reference line and no clefs.
+In early Iberian Aquitanian sources, like the Salamanca Missal, there is a music reference line and no clefs. In the Salamanca Missal, in particular, the music reference is a dry-point line (other sources might show this line in red or black ink).
+
