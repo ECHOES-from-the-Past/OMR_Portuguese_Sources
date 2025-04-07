@@ -9,6 +9,7 @@ These models were trained only for the classification of `Music Symbols` and `Te
 
 To use these files as training data for the `Training model for Parchwise Analysis of Music Document, Training` job (also known as "Paco's Training" job for its author), one has to compress together into a ZIP file named `Pixel_js - ZIP.zip`. 
 
+-----
 
 The extra folder [`also_reference_line_layer`](./pixel_ground_truth_data/also_reference_line_layer) that can be found in this `pixel_ground_truth_data` directory has actually an extra layer for the scratched staff line:
 
