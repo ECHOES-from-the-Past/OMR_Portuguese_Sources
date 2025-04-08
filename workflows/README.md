@@ -18,3 +18,47 @@ The remaining input layers of Pixel (e.g., staff lines and text) should be conne
 
 ### Screenshot of workflow with annotated for ports
 ![BGRemoval - annotated](./images/BGRemoval%20-%20annotated.png)
+
+
+
+## AutomatPixelClassif Workflow
+
+**Summary:** This workflow allows to save time in the Pixel classification part of the OMR
+
+**Workflow file:** [AutomatPixelClassif.json](./AutomatPixelClassif.json)
+
+### Screenshot of workflow
+![AutomatPixelClassif](./images/AutomatPixelClassif.png)
+
+
+
+## Classified Glyphs to MEI Encoding Workflow
+
+**Summary:** This workflow allows to save time in the Pixel classification part of the OMR
+
+**Workflow file:** [Classified_Glyphs_to_MEI_Encoding.json](./Classified_Glyphs_to_MEI_Encoding.json)
+
+### Screenshot of workflow
+![Classified_Glyphs_to_MEI_Encoding](./images/Classified_Glyphs_to_MEI_Encoding.png)
+
+
+
+## End2End Workflow
+
+**Summary:** This workflow allows to save time in the Pixel classification part of the OMR
+
+**Workflow file:** [End2End.json](./End2End.json)
+
+### Screenshot of workflow
+![End2End](./images/End2End.png)
+
+
+
+## IC Workflow
+
+**Summary:** This workflow allows to save time in the Pixel classification part of the OMR
+
+**Workflow file:** [IC.json](./IC.json)
+
+### Screenshot of workflow
+![IC](./images/IC.png)
