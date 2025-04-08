@@ -32,6 +32,23 @@ The remaining input layers of Pixel (e.g., staff lines and text) should be conne
 
 ---
 
+## IC Workflow
+
+**Summary:** This workflow receives an image and its music symbol layer to be used to classify the music symbosl in the image using the `Interactive Classifier` (IC) job. This workflow in particular was used for generating the training data for Aquitanian music symbols (as one sees that the `Interactive Classifier` job is directly preceded by the `CC Analysis` job, and there is no `Diagonal Neume Splitting` job in between, which we usually use for square notation to divide complex neumes into their neume components and have less glyph classes).
+
+The IC job here has three outputs: 
+- *training data*, to be used for the automatic classification of the music symbols of other images in the future
+- *classified glyphs*, to be further processed later (with the `heuristic pitch finding` and `mei encoding` jobs)
+- and the *class names*, to be used later for the MEI Mapping CSV file so that these classes of glyphs are converted into the correct MEI encoding
+
+**Workflow file:** [IC.json](./IC.json)
+
+### Screenshot of workflow
+![IC](./images/IC.png)
+
+
+---
+
 ## Classified Glyphs to MEI Encoding Workflow
 
 **Summary:** This workflow allows to save time in the Pixel classification part of the OMR
@@ -51,14 +68,3 @@ The remaining input layers of Pixel (e.g., staff lines and text) should be conne
 
 ### Screenshot of workflow
 ![End2End](./images/End2End.png)
-
----
-
-## IC Workflow
-
-**Summary:** This workflow allows to save time in the Pixel classification part of the OMR
-
-**Workflow file:** [IC.json](./IC.json)
-
-### Screenshot of workflow
-![IC](./images/IC.png)
