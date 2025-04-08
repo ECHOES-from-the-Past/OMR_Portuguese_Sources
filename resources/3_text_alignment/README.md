@@ -1,1 +1,3 @@
 # Text Alignment Resources
+
+This folder contains the CSV file containing the full information of the two manuscripts [P-BRs Ms. 034](https://pemdatabase.eu/source/47612) and [Salamanca Missal, E-SAu Ms. 2637 (ACm)](https://pemdatabase.eu/source/48357), a Python script to extract the text per page (with an additional chant from the previous page as someone the last chant of a page runs into the next one), and the extracted text files per page for each of the two manuscripts (as seen in the folders `FULL_TEXT_Braga_Arquivo_da_Se_Ms_34` and `FULL_TEXT_E-SAu_Ms_2637`).
