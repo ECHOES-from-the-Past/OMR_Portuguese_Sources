@@ -19,18 +19,18 @@ The remaining input layers of Pixel (e.g., staff lines and text) should be conne
 ### Screenshot of workflow with annotated for ports
 ![BGRemoval - annotated](./images/BGRemoval%20-%20annotated.png)
 
-
+---
 
 ## AutomatPixelClassif Workflow
 
-**Summary:** This workflow allows to save time in the Pixel classification part of the OMR
+**Summary:** This workflow automatically performs document analysis (pixel classification of the image into the various layers of music symbols, staff lines, text, and background) and then allows the user to fix the results in Pixel. The results can be saved with a label of the folio being processed (this is achieved by using the `labeler` job and set its settings to the label one wants to use).
 
 **Workflow file:** [AutomatPixelClassif.json](./AutomatPixelClassif.json)
 
 ### Screenshot of workflow
 ![AutomatPixelClassif](./images/AutomatPixelClassif.png)
 
-
+---
 
 ## Classified Glyphs to MEI Encoding Workflow
 
@@ -41,7 +41,7 @@ The remaining input layers of Pixel (e.g., staff lines and text) should be conne
 ### Screenshot of workflow
 ![Classified_Glyphs_to_MEI_Encoding](./images/Classified_Glyphs_to_MEI_Encoding.png)
 
-
+---
 
 ## End2End Workflow
 
@@ -52,7 +52,7 @@ The remaining input layers of Pixel (e.g., staff lines and text) should be conne
 ### Screenshot of workflow
 ![End2End](./images/End2End.png)
 
-
+---
 
 ## IC Workflow
 
