@@ -34,16 +34,28 @@ The remaining input layers of Pixel (e.g., staff lines and text) should be conne
 
 ## IC Workflow
 
-**Summary:** This workflow receives an image and its music symbol layer to be used to classify the music symbosl in the image using the `Interactive Classifier` (IC) job. This workflow in particular was used for generating the training data, and final class names, for Aquitanian music symbols (as one sees that the `Interactive Classifier` job is directly preceded by the `CC Analysis` job, and there is no `Diagonal Neume Splitting` job in between, which we usually use for square notation to divide complex neumes into their neume components and have less glyph classes).
-
-The IC job here has three outputs: 
-- *training data*, to be used for the automatic classification of the music symbols of other images in the future
-- *classified glyphs*, to be further processed later (with the `heuristic pitch finding` and `mei encoding` jobs)
-- and the *class names*, to be used later for the MEI Mapping CSV file so that these classes of glyphs are converted into the correct MEI encoding
-
-**Important note:** For the *training data* is not important if we previosly divide the music layer into columns or not, but this is very important for the *classified glyphs data*. Moreover, if we are using the original image as input of the `Interactive Classifier` job, one needs to use the original *music symbol layer* rather than the one divided into columns. If, on the other hand, one wants to use the *music symbol layer already splitted into columns* then one cannot use the origianl image as input for the IC (as this one is not splitted into columns), so the only option is to use the same *splitted music symbol layer* as the "input image".
+**Summary:** This workflow receives an image and its music symbol layer to be used to classify the music symbosl in the image using the `Interactive Classifier` (IC) job. 
 
 **Workflow file:** [IC.json](./IC.json)
+
+The IC job here has three outputs: 
+- *training data* (optional), to be used for the automatic classification of the music symbols of other images in the future
+- *classified glyphs* (required), to be further processed later (with the `heuristic pitch finding` and `mei encoding` jobs)
+- and the *class names* (optional), to be used later for the MEI Mapping CSV file so that these classes of glyphs are converted into the correct MEI encoding
+
+**Important notes:**
+This workflow in particular was used for **generating the _training data_ and _final class names_** for **Aquitanian** music symbols.
+
+1. Regarding the part of using it for **Aquitanian** music symbols:
+
+   As one sees that the `Interactive Classifier` job is directly preceded by the `CC Analysis` job, and there is no `Diagonal Neume Splitting` job in between, which we usually use for square notation to divide complex neumes into their neume components and have less glyph classes.
+   
+2. Regarding the part of using it for **generating the training data and final class names** for the music symbols:
+
+   **WE DID NOT USE THIS WORKFLOW TO GET THE CLASSIFIED GLYPHS OF THE PAGE TO CONTINUE DOWN THE WORKFLOW AND GET THE MEI OF THE IMAGE.**
+   For the **training data** it is not important if we previosly divide the music layer into columns or not, but this is very important for the **classified glyphs data**. Moreover, if we are using the original image as input of the `Interactive Classifier` job, one needs to use the **original** music symbol layer rather than the one divided into columns. If, on the other hand, one wants to use the music symbol layer **already splitted into columns**, then one cannot use the original image as input for the IC (as this one is not splitted into columns), so the only option is to use the **same splitted music symbol layer** as the "input image".
+
+
 
 ### Screenshot of workflow
 ![IC](./images/IC.png)
