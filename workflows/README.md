@@ -41,6 +41,8 @@ The IC job here has three outputs:
 - *classified glyphs*, to be further processed later (with the `heuristic pitch finding` and `mei encoding` jobs)
 - and the *class names*, to be used later for the MEI Mapping CSV file so that these classes of glyphs are converted into the correct MEI encoding
 
+**Important note:** For the *training data* is not important if we previosly divide the music layer into columns or not, but this is very important for the *classified glyphs data*. Moreover, if we are using the original image as input of the `Interactive Classifier` job, one needs to use the original *music symbol layer* rather than the one divided into columns. If, on the other hand, one wants to use the *music symbol layer already splitted into columns* then one cannot use the origianl image as input for the IC (as this one is not splitted into columns), so the only option is to use the same *splitted music symbol layer* as the "input image".
+
 **Workflow file:** [IC.json](./IC.json)
 
 ### Screenshot of workflow
