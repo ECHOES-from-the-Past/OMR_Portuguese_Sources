@@ -34,7 +34,7 @@ The remaining input layers of Pixel (e.g., staff lines and text) should be conne
 
 ## IC Workflow
 
-**Summary:** This workflow receives an image and its music symbol layer to be used to classify the music symbosl in the image using the `Interactive Classifier` (IC) job. This workflow in particular was used for generating the training data for Aquitanian music symbols (as one sees that the `Interactive Classifier` job is directly preceded by the `CC Analysis` job, and there is no `Diagonal Neume Splitting` job in between, which we usually use for square notation to divide complex neumes into their neume components and have less glyph classes).
+**Summary:** This workflow receives an image and its music symbol layer to be used to classify the music symbosl in the image using the `Interactive Classifier` (IC) job. This workflow in particular was used for generating the training data, and final class names, for Aquitanian music symbols (as one sees that the `Interactive Classifier` job is directly preceded by the `CC Analysis` job, and there is no `Diagonal Neume Splitting` job in between, which we usually use for square notation to divide complex neumes into their neume components and have less glyph classes).
 
 The IC job here has three outputs: 
 - *training data*, to be used for the automatic classification of the music symbols of other images in the future
