@@ -1,4 +1,4 @@
-﻿imagePath,imagesBinary,name,folio,description,classification,width,mei,review,dob,project
+imagePath,imagesBinary,name,folio,description,classification,width,mei,review,dob,project
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/RQKyrNTU8790.tiff/1478,2286,33,55/128,/0/default.jpg",Picture,Custos,18v,"Tolle puerum, 2nd line, end",custos,1,<custos/>,[],[],E-SAu Ms. 2637 (ACm)
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/1900,545,31,38/128,/0/default.jpg",Picture,Punctum,3r,"Dominus dabit, 1st line, benignitaTEM",neume.punctum,1,"<neume>
     <nc/>
@@ -49,8 +49,19 @@
     <nc intm=""2S""/>
     <nc intm=""-3S""/>
 </neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/XwH7vu6H8823.tiff/1602,2043,51,81/128,/0/default.jpg",Picture,Torculus33,35r,"Ecce nunc, 5th line, ignosCENdum ",neume.torculus33,"[1, 1, 1]","<neume>
+    <nc/>
+    <nc intm=""3S""/>
+    <nc intm=""-3S""/>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/RQKyrNTU8790.tiff/670,2095,28,57/128,/0/default.jpg",Picture,Liquescent virga,18v,"Tolle puerum, 1st line, TOLle",neume.virgaliq,1,"<neume>
     <nc curve=""c"" tilt=""ne"">
         <liquescent/>
     </nc>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/6pZUk_mj8843.tiff/1140,3044,65,60/128,/0/default.jpg",Picture,porrectus prepunctis,46v,"Domine Dominus, 2nd line, uniVERsa",neume.porrectus,"[1, 1, 1, 1]","<neume>
+    <nc/>
+    <nc intm=""1S"" tilt=""ne""/>
+    <nc intm=""-1S""/>
+    <nc intm=""1S"" tilt=""ne""/>
 </neume>",[],[],E-SAu Ms. 2637 (ACm)
