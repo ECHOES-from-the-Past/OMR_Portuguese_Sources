@@ -9,8 +9,8 @@ neume.rhombus
 neume.torculus11
 neume.torculus12
 neume.torculus21
-neume.torculus23
-neume.torculus33
+neume.torculus22
+neume.torculus31
 neume.virga
 neume.virgaliq
 skip
