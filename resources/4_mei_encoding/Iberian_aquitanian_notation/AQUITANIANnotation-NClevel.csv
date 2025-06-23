@@ -7,7 +7,7 @@ imagePath,imagesBinary,name,folio,description,classification,width,mei,review,do
    <nc tilt=""se""/> 
 </neume>",[],[],E-SAu Ms. 2637 (ACm)
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/2048,576,22,50/128,/0/default.jpg",Picture,Virga,3r,"Dominus dabit, 1st line, teRRA",neume.virga,1,"<neume>
-    <nc tilt=""ne""/>
+    <nc tilt=""n""/>
 </neume>",[],[],E-SAu Ms. 2637 (ACm)
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/1936,541,37,52/128,/0/default.jpg",Picture,Cephalicus,3r,"Dominus dabit, 1st line, ET",neume.cephalicus,1,"<neume>
     <nc curve=""c"" type=""cephalicus"">
