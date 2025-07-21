@@ -1,0 +1,14 @@
+custos
+neume.cephalicus
+neume.epiphonus
+neume.oriscus
+neume.porrectus
+neume.punctum
+neume.quilisma
+neume.rhombus
+neume.torculusend1
+neume.torculusend2
+neume.torculusend3
+neume.virga
+neume.virgaliq
+skip
