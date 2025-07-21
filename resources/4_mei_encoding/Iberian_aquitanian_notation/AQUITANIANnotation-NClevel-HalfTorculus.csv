@@ -1,0 +1,54 @@
+﻿imagePath,imagesBinary,name,folio,description,classification,width,mei,review,dob,project
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/RQKyrNTU8790.tiff/1478,2286,33,55/128,/0/default.jpg",Picture,Custos,18v,"Tolle puerum, 2nd line, end",custos,1,<custos/>,[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/1900,545,31,38/128,/0/default.jpg",Picture,Punctum,3r,"Dominus dabit, 1st line, benignitaTEM",neume.punctum,1,"<neume>
+    <nc/>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/s0N4NSFQ8805.tiff/1371,2130,50,37/128,/0/default.jpg",Picture,Rhombus,26r,"Illumina, 1st line, TUum",neume.rhombus,1,"<neume>
+   <nc tilt=""se""/> 
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/2048,576,22,50/128,/0/default.jpg",Picture,Virga,3r,"Dominus dabit, 1st line, teRRA",neume.virga,1,"<neume>
+    <nc tilt=""n""/>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/V9ZD2CnI8759.tiff/1936,541,37,52/128,/0/default.jpg",Picture,Cephalicus,3r,"Dominus dabit, 1st line, ET",neume.cephalicus,1,"<neume>
+    <nc curve=""c"" type=""cephalicus"">
+        <liquescent/>
+    </nc>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/oI017Xju8794.tiff/1847,720,60,65/128,/0/default.jpg",Picture,Epiphonus,20v,"Vidimus stellam, 1st line, STELlam",neume.epiphonus,1,"<neume>
+    <nc curve=""a"" type=""epiphonus"">
+        <liquescent/>
+    </nc>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/s0N4NSFQ8805.tiff/1734,2341,24,28/128,/0/default.jpg",Picture,Oriscus,26r,"Illumina, 3rd line, confunDAR",neume.oriscus,1,"<neume>
+    <nc>
+        <oriscus/>
+    </nc>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/RQKyrNTU8790.tiff/1325,2047,45,53/128,/0/default.jpg",Picture,Quilisma,18v,"Tolle puerum, 1st line, TErram",neume.quilisma,1,"<neume>
+    <nc>
+        <quilisma/>
+    </nc>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/h_zRaSsE8826.tiff/567,2231,45,56/128,/0/default.jpg",Picture,TorculusEnd1,37r,"Scapulis, 2nd line, scuTO",neume.torculusend1,"[1, 1]","<neume>
+    <nc/>
+    <nc intm=""-1S""/>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/jyc11xgr8762.tiff/773,2062,55,75/128,/0/default.jpg",Picture,TorculusEnd2,4v,"Jerusalem surge, 1st line, JErusalem",neume.torculusend2,"[1, 1]","<neume>
+    <nc/>
+    <nc intm=""-2S""/>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/XwH7vu6H8823.tiff/1602,2043,51,81/128,/0/default.jpg",Picture,TorculusEnd3,35r,"Ecce nunc, 5th line, ignosCENdum ",neume.torculusend3,"[1, 1]","<neume>
+    <nc/>
+    <nc intm=""-3S""/>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/RQKyrNTU8790.tiff/670,2095,28,57/128,/0/default.jpg",Picture,Liquescent virga,18v,"Tolle puerum, 1st line, TOLle",neume.virgaliq,1,"<neume>
+    <nc curve=""c"" tilt=""ne"">
+        <liquescent/>
+    </nc>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
+"https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/1d335927-f461-4bdb-a6e5-069a24a9d3f1/6pZUk_mj8843.tiff/1140,3044,65,60/128,/0/default.jpg",Picture,porrectus prepunctis,46v,"Domine Dominus, 2nd line, uniVERsa",neume.porrectus,"[1, 1, 1, 1]","<neume>
+    <nc/>
+    <nc intm=""1S"" tilt=""ne""/>
+    <nc intm=""-1S""/>
+    <nc intm=""1S"" tilt=""ne""/>
+</neume>",[],[],E-SAu Ms. 2637 (ACm)
