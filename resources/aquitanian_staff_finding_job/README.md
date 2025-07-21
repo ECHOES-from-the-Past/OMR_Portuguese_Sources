@@ -7,6 +7,6 @@ This folder contains the layers used for testing the work done on finding the mi
 - Folio [043v Seq 001](https://pemdatabase.eu/media/8837/download?attachment)
 - Folio [055v Seq 001](https://pemdatabase.eu/media/8864/download?attachment)
 
-The `build_mei_file.py` can be used in a local version of Rodan for the Aquitanian workflow as part of 'MEI Encoding' (would replace the original `build_mei_file.py`). It uses 5 staff lines (setting `@lines = 5` in `<staffDef>`) with the middle line being the original line, 2 ledger lines above, and 2 ledger lines below. It also updates the clef's line (by setting `@clef.line = 2` in `<staffDef>`) to properly align neumes to the staff. 
+The `build_mei_file.py` can be used in a local version of Rodan for the Aquitanian workflow as part of `MEI Encoding` (would replace the original `build_mei_file.py`). It uses 5 staff lines (setting `@lines = 5` in `<staffDef>`) with the middle line being the original line, 2 ledger lines above, and 2 ledger lines below. It also updates the clef's line (by setting `@clef.line = 2` in `<staffDef>`) to properly align neumes to the staff. 
 
 **Note:** If the `build_mei_file.py` is not used, the user will have to change these values manually. 
