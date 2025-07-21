@@ -5,3 +5,8 @@ This folder contains the resources needed for the MEI Encoding job in Rodan. The
 There are two CSV files here (together with their corresponding Excel files that show the images of the symbols classified):
 - One for Iberian Aquitanian notation, based on the [Salamanca Missal, E-SAu Ms. 2637 (ACm)](https://pemdatabase.eu/source/48357)
 - One for Iberian Square notation, based on the Manuscripts [P-BRs Ms. 028](https://pemdatabase.eu/source/48438), [P-BRs Ms. 032](https://pemdatabase.eu/source/47990), and [P-BRs Ms. 034](https://pemdatabase.eu/source/47612)
+
+## Aquitanian Notation
+Once the MEI file is obtained, to be able to correct it in Neon, the user needs to make two changes to the file's `<staffDef>` element:
+- Change `@lines` to `5` (by default the value would be `1`)
+- Change `@clef.line` to `2`
