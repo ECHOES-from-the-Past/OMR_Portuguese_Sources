@@ -7,4 +7,4 @@ This folder contains the layers used for testing the work done on finding the mi
 - Folio [043v Seq 001](https://pemdatabase.eu/media/8837/download?attachment)
 - Folio [055v Seq 001](https://pemdatabase.eu/media/8864/download?attachment)
 
-Additionally, the build_mei_file.py is used in conjunction with Aquitanian Staff Finding to display it properly in Neon. It uses 5 staff lines with the middle line being the original line, 2 ledger lines above, and 2 ledger lines below. It also updates the clef's line to properly align neumes to the staff. 
+Additionally, the `build_mei_file.py` is used in conjunction with Aquitanian Staff Finding to display it properly in Neon. It uses 5 staff lines (setting `@lines = 5` in `<staffDef>`) with the middle line being the original line, 2 ledger lines above, and 2 ledger lines below. It also updates the clef's line (by setting `@clef.line = 2` in `<staffDef>`) to properly align neumes to the staff. 
