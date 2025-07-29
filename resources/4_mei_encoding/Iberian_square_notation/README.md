@@ -23,6 +23,6 @@ This is the MEI Mapping table that contains the information needed for Rodan's M
 |  | <img src="../_images/square/SQUARE_divisio.png" width="20"/> | Divsio |  | 144-145 | divisio | 1 | `<divLine/>` | | P-BRs, Ms. 34 |
 |  | <img src="../_images/square/SQUARE_clivis.png" width="40"/> | Clivis |  | 144-145 | neume.clivis | [1, 1] | `</>` | | P-BRs, Ms. 34 |
 |  | <img src="../_images/square/SQUARE_podatus.png" width="40"/> | Podatus |  | 144-145 | neume.podatus | [1, 1] | `</>` | | P-BRs, Ms. 34 |
-|  | <img src="../_images/square/SQUARE_two-legs-down.png" width="25"/> | Plica down |  | 144-145 | neume.towlegsdown | 1 | `</>` | | P-BRs, Ms. 34 |
+|  | <img src="../_images/square/SQUARE_two-legs-down.png" width="25"/> | Plica down |  | 144-145 | neume.twolegsdown | [1,1] | `</>` | | P-BRs, Ms. 34 |
 |  | <img src="../_images/square/SQUARE_torculus11.png" width="50"/> | Torculus11 |  | 144-145 | neume.torculus11 | [1, 1, 1] | `</>` | | P-BRs, Ms. 34 |
 |  | <img src="../_images/square/SQUARE_torculus12.png" width="50"/> | Torculus12 |  | 144-145 | neume.torculus12 | [1, 1, 1] | `</>` | | P-BRs, Ms. 34 |
