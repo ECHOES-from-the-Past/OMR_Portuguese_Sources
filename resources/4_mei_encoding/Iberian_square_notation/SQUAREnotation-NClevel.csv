@@ -1,4 +1,4 @@
-imagePath,imagesBinary,name,folio,description,classification,width,mei,review,dob,project
+﻿imagePath,imagesBinary,name,folio,description,classification,width,mei,review,dob,project
 "https://pemdatabase.eu/iipsrv/iipsrv.fcgi?IIIF=images/264c717c-e9f5-411d-9597-7dce6f8aeb60/PYeyLxJV15764.tiff/2506,1270,62,68/128,/0/default.jpg",Picture,Punctum,17r,"1, D",neume.punctum,1,"<neume>
     <nc/>
 </neume>",[],[],"P-BRs, Ms. 28"
@@ -47,33 +47,33 @@ imagePath,imagesBinary,name,folio,description,classification,width,mei,review,do
     <nc intm=""2S""/>
     <nc intm=""-2S""/>
 </neume>",[],[],P-BRs Ms. 034
-[],[],C clef,[],[],clef.c,1,"<clef shape=""C""/>",[],[],[]
-[],[],F clef,[],[],clef.f,1,"<clef shape=""F""/>",[],[],[]
-[],[],Flat,[],[],accid.flat,1,"<accid accid=""f""/>",[],[],[]
-[],[],Custos,[],[],custos,1,<custos/>,[],[],[]
-[],[],Divisio,[],[],divisio,1,<divLine/>,[],[],[]
-[],[],Clivis,[],[],neume.clivis,"[1,1]","<neume>
+[],Picture,C clef,[],144-145,clef.c,1,"<clef shape=""C""/>",[],[],P-BRs Ms. 034
+[],Picture,F clef,[],144-145,clef.f,1,"<clef shape=""F""/>",[],[],P-BRs Ms. 034
+[],Picture,Flat,[],144-145,accid.flat,1,"<accid accid=""f""/>",[],[],P-BRs Ms. 034
+[],Picture,Custos,[],144-145,custos,1,<custos/>,[],[],P-BRs Ms. 034
+[],Picture,Divisio,[],144-145,divisio,1,<divLine/>,[],[],P-BRs Ms. 034
+[],Picture,Clivis,[],144-145,neume.clivis,"[1,1]","<neume>
     <nc/>
     <nc intm=""-1S""/>
-</neume>",[],[],[]
-[],[],Podatus,[],[],neume.podatus,"[1,1]","<neume>
+</neume>",[],[],P-BRs Ms. 034
+[],Picture,Podatus,[],144-145,neume.podatus,"[1,1]","<neume>
     <nc/>
     <nc intm=""1S""/>
-</neume>",[],[],[]
-[],[],Plica down,[],[],neume.twolegsdown,"[1,1]","<neume>
+</neume>",[],[],P-BRs Ms. 034
+[],Picture,Plica down,[],144-145,neume.twolegsdown,"[1,1]","<neume>
     <nc type=""twolegsdown""/>
     <nc intm=""0S"" type=""twolegsdown""/>
-</neume>",[],[],[]
-[],[],Torculus11,[],[],neume.torculus11,"[1, 1, 1]","<neume>
+</neume>",[],[],P-BRs Ms. 034
+[],Picture,Torculus11,[],144-145,neume.torculus11,"[1, 1, 1]","<neume>
     <nc/>
     <nc intm=""1S""/>
     <nc intm=""-1S""/>
-</neume>",[],[],[]
-[],[],Torculus12,[],[],neume.torculus12,"[1, 1, 1]","<neume>
+</neume>",[],[],P-BRs Ms. 034
+[],Picture,Torculus12,[],144-145,neume.torculus12,"[1, 1, 1]","<neume>
     <nc/>
     <nc intm=""1S""/>
     <nc intm=""-2S""/>
-</neume>",[],[],[]
+</neume>",[],[],P-BRs Ms. 034
 [],[],Torculus13,[],[],neume.torculus13,"[1, 1, 1]","<neume>
     <nc/>
     <nc intm=""1S""/>
