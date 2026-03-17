@@ -2,7 +2,6 @@
 
 ## Training Part (`A_Training` folder)
 
-### Models
 The models in the [`A_training/models`](./A_training/models) folder were trained only for the classification of `Music Symbols` and `Text`, since the staff layer is actually not drawn in ink in the manuscript (but rather it is made by a scratching the parchment with something pointy). The groundtruth data to generate these models are the files in the [`A_Training/pixel_ground_truth_data`](./A_training/pixel_ground_truth_data) folder: 
 
 - `Image.png`
