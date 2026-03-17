@@ -1,5 +1,9 @@
-# Models Training Data
-These models were trained only for the classification of `Music Symbols` and `Text`, since the staff layer is actually not drawn in ink in the manuscript (but rather it is made by a scratching the parchment with something pointy). The groundtruth data to generate these models are the files in the [`pixel_ground_truth_data`](./pixel_ground_truth_data) folder: 
+# Aquitanian Notation:
+
+## Training Part (`A_Training` folder)
+
+### Models
+The models in the [`A_training/models`](./A_training/models) folder were trained only for the classification of `Music Symbols` and `Text`, since the staff layer is actually not drawn in ink in the manuscript (but rather it is made by a scratching the parchment with something pointy). The groundtruth data to generate these models are the files in the [`A_Training/pixel_ground_truth_data`](./A_training/pixel_ground_truth_data) folder: 
 
 - `Image.png`
 - `rgba PNG - Layer 0 (Background).png`
@@ -9,9 +13,10 @@ These models were trained only for the classification of `Music Symbols` and `Te
 
 To use these files as training data for the `Training model for Parchwise Analysis of Music Document, Training` job (also known as "Paco's Training" job for its author), one has to compress together into a ZIP file named `Pixel_js - ZIP.zip`. 
 
------
 
-The extra folder [`also_reference_line_layer`](./pixel_ground_truth_data/also_reference_line_layer) that can be found in this `pixel_ground_truth_data` directory has actually an extra layer for the scratched staff line:
+## Classification Part (`B_Classification_and_Postprocessing` folder)
+
+This folder contains the results of applying the previous models to the classification of other folios, and the correction of said results, including the addition of a new layer for the "music reference line" manually created with Pixel. The layers per folio are:
 
 - `Image.png`
 - `rgba PNG - Layer 0 (Background).png`
